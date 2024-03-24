@@ -1,0 +1,11 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Maker\Desktop\ConsoleApplication1\Product.h(43,30): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+  Reporting.cpp
+C:\Users\Maker\Desktop\ConsoleApplication1\Product.h(43,30): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Reporting.cpp')
+  
+  Generating Code...
+C:\Users\Maker\Desktop\ConsoleApplication1\Warehouse.h(28,1): warning C4715: 'Warehouse::getProductWithName': not all control paths return a value
+  ConsoleApplication1.vcxproj -> C:\Users\Maker\Desktop\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
